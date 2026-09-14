@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently a student at Addis Ababa University<br>I'm an ardent lover of codes<br>I have developed frontend projects<br>I aim to become a software engineer at a top tech company<br>I'm curious, persistent, and always willing to learn.
+I'm currently a student at Addis Ababa University<br>I'm an ardent lover of codes<br>I have developed Full-Stack projects<br>I aim to become a software engineer at a top tech company<br>I'm curious, persistent, and always willing to learn.
 
 
 # 💻 Tech Stack:
